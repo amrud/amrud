@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @amrud
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning machine learning 
